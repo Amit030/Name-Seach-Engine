@@ -1,4 +1,4 @@
-Poject working/statement
+Project working/statement
 
 # Scrap  newspaper articles data from https://www.thehindu.com/archive/
 
@@ -11,3 +11,7 @@ b. Output Articles about that person
 
 Developed by Amit Sharma
              amit030.cse@gmail.com
+             
+Programming langage : c++             
+Developed in Xcode 10.2.1
+Framework used libcurl.tbd
